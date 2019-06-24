@@ -25,7 +25,7 @@ $db_name = 'db_flashhost';
 $db = mysqli_connect($db_server, $db_user, $db_passwd, $db_name);
 
 
-### API WHM Configuration ###
+### API WHM Configuration ##
 // Authorization WHM Configuration
 
 $user_US = 'root'; //username whm
