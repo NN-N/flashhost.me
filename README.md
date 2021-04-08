@@ -9,4 +9,7 @@ FlashHost.Me is simple web hosting project.
     - Moota.Co is payment gateway, please look at [https://moota.co](https://moota.co).
 4. Done
 
+### Demo
+[https://youtu.be/sz46JEilNtw](https://youtu.be/sz46JEilNtw)
+
 Last Update : October 2018
